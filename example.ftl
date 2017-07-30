@@ -1,2 +1,2 @@
 msg,${msg}
-ref,default-branch
+ref,v0.1
